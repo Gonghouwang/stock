@@ -14,7 +14,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>common</module>
-        <module>weekie-pojo</module>
+        <module>pojo</module>
         <module>server</module>
     </modules>
     <properties>
